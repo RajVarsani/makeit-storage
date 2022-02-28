@@ -5,7 +5,6 @@
  
 ![image 42](https://user-images.githubusercontent.com/74860406/149317904-abbe7465-65d2-4bcd-8fd4-a54bc86c072b.png)
 
-<h3 >Created with Cloudinary</h3>
 </div>
 
 ## Technologies
